@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Great Lake Cabins",
+    "description": "Website made for Great Lake Cabins in Batchawana Bay, Ontario.",
+    "image": "/GLC.jpg",
+    "url": "https://greatlakecabins.netlify.app/"
+  },
+  {
+    "id": 2,
+    "name": "Recipe Search",
+    "description": "Recipe search app that uses the Spoonacular API to fetch recipes based on user input.",
+    "image": "/Recipes.jpg",
+    "url": "https://recipes-next.web.app/"
+  },
+  {
+    "id": 3,
+    "name": "Frontend Checkout",
+    "description": "Responsive and clean frontend checkout interface.",
+    "image": "/Checkout.jpg",
+    "url": "https://frontend-checkout-process.web.app/"
+  }
+]

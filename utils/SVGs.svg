@@ -1,0 +1,30 @@
+﻿   sunTornado = <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'><rect fill='#FFDC43' width='2000' height='1500'/><defs><radialGradient id='a' gradientUnits='objectBoundingBox'><stop  offset='0' stop-color='#FFFFFF'/><stop  offset='1' stop-color='#FFDC43'/></radialGradient><linearGradient id='b' gradientUnits='userSpaceOnUse' x1='0' y1='750' x2='1550' y2='750'><stop  offset='0' stop-color='#ffeea1'/><stop  offset='1' stop-color='#FFDC43'/></linearGradient><path id='s' fill='url(#b)' d='M1549.2 51.6c-5.4 99.1-20.2 197.6-44.2 293.6c-24.1 96-57.4 189.4-99.3 278.6c-41.9 89.2-92.4 174.1-150.3 253.3c-58 79.2-123.4 152.6-195.1 219c-71.7 66.4-149.6 125.8-232.2 177.2c-82.7 51.4-170.1 94.7-260.7 129.1c-90.6 34.4-184.4 60-279.5 76.3C192.6 1495 96.1 1502 0 1500c96.1-2.1 191.8-13.3 285.4-33.6c93.6-20.2 185-49.5 272.5-87.2c87.6-37.7 171.3-83.8 249.6-137.3c78.4-53.5 151.5-114.5 217.9-181.7c66.5-67.2 126.4-140.7 178.6-218.9c52.3-78.3 96.9-161.4 133-247.9c36.1-86.5 63.8-176.2 82.6-267.6c18.8-91.4 28.6-184.4 29.6-277.4c0.3-27.6 23.2-48.7 50.8-48.4s49.5 21.8 49.2 49.5c0 0.7 0 1.3-0.1 2L1549.2 51.6z'/><g id='g'><use href='#s' transform='scale(0.12) rotate(60)'/><use href='#s' transform='scale(0.2) rotate(10)'/><use href='#s' transform='scale(0.25) rotate(40)'/><use href='#s' transform='scale(0.3) rotate(-20)'/><use href='#s' transform='scale(0.4) rotate(-30)'/><use href='#s' transform='scale(0.5) rotate(20)'/><use href='#s' transform='scale(0.6) rotate(60)'/><use href='#s' transform='scale(0.7) rotate(10)'/><use href='#s' transform='scale(0.835) rotate(-40)'/><use href='#s' transform='scale(0.9) rotate(40)'/><use href='#s' transform='scale(1.05) rotate(25)'/><use href='#s' transform='scale(1.2) rotate(8)'/><use href='#s' transform='scale(1.333) rotate(-60)'/><use href='#s' transform='scale(1.45) rotate(-30)'/><use href='#s' transform='scale(1.6) rotate(10)'/></g></defs><g  transform=''><g  transform=''><circle fill='url(#a)' r='3000'/><g opacity='0.5'><circle fill='url(#a)' r='2000'/><circle fill='url(#a)' r='1800'/><circle fill='url(#a)' r='1700'/><circle fill='url(#a)' r='1651'/><circle fill='url(#a)' r='1450'/><circle fill='url(#a)' r='1250'/><circle fill='url(#a)' r='1175'/><circle fill='url(#a)' r='900'/><circle fill='url(#a)' r='750'/><circle fill='url(#a)' r='500'/><circle fill='url(#a)' r='380'/><circle fill='url(#a)' r='250'/></g><g  transform='rotate(-360 0 0)'><use href='#g' transform='rotate(10)'/><use href='#g' transform='rotate(120)'/><use href='#g' transform='rotate(240)'/></g><circle fill-opacity='0' fill='url(#a)' r='3000'/></g></g></svg>",
+
+   clouds = 
+
+   mountains = 
+
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1920" height="1080" preserveAspectRatio="none" viewBox="0 0 1920 1080">
+    <g mask="url(&quot;#SvgjsMask1239&quot;)" fill="none" id="clouds">
+        <path d="M1984 1080L0 1080 L0 576.29Q106.79 523.08, 160 629.87Q170.92 544.79, 256 555.7Q312.62 516.32, 352 572.93Q474.2 599.13, 448 721.32Q444.74 558.06, 608 554.8Q705.77 492.57, 768 590.34Q910.15 572.49, 928 714.64Q965 655.64, 1024 692.65Q1082.98 591.63, 1184 650.61Q1238.67 545.28, 1344 599.95Q1405.57 501.52, 1504 563.09Q1596.75 495.84, 1664 588.59Q1802.26 566.86, 1824 705.12Q1887.89 609.01, 1984 672.91z" fill="rgba(210, 225, 240, 1)"></path>
+        <path d="M1952 1080L0 1080 L0 804.08Q-8.2 699.88, 96 691.69Q168.1 603.79, 256 675.88Q346.55 670.43, 352 760.98Q448.01 696.99, 512 793Q569.71 754.71, 608 812.43Q620.35 664.77, 768 677.12Q860.91 610.03, 928 702.94Q1072.02 686.96, 1088 830.98Q1147.29 730.27, 1248 789.56Q1360.77 742.33, 1408 855.09Q1429.64 780.73, 1504 802.37Q1538.12 740.49, 1600 774.61Q1671.81 750.42, 1696 822.23Q1723.38 689.62, 1856 717Q1913.54 678.54, 1952 736.07z" fill="rgba(225, 235, 245, 1)"></path>
+        <path d="M2016 1080L0 1080 L0 924.85Q77.25 906.1, 96 983.34Q132.09 923.43, 192 959.52Q258.66 866.18, 352 932.85Q339.64 824.49, 448 812.13Q516.05 784.18, 544 852.23Q610.34 822.57, 640 888.91Q652.6 805.51, 736 818.11Q793.39 779.5, 832 836.89Q888.43 797.32, 928 853.75Q1014.64 844.39, 1024 931.04Q1105.17 916.21, 1120 997.39Q1123.33 904.72, 1216 908.05Q1238.74 834.79, 1312 857.53Q1424.53 810.06, 1472 922.58Q1480 834.58, 1568 842.57Q1608.85 787.42, 1664 828.27Q1750.23 818.5, 1760 904.74Q1780.31 829.05, 1856 849.36Q1954.74 788.1, 2016 886.84z" fill="rgba(240, 245, 250, 1)"></path>
+        <path d="M2080 1080L0 1080 L0 1097.65Q8.64 1010.3, 96 1018.94Q115.69 942.63, 192 962.33Q264.25 874.59, 352 946.84Q446.34 881.18, 512 975.53Q597.96 965.49, 608 1051.45Q689.37 1036.82, 704 1118.19Q766.23 1020.42, 864 1082.65Q897.8 1020.45, 960 1054.26Q1017.67 951.93, 1120 1009.6Q1238.45 968.05, 1280 1086.5Q1348.83 1059.33, 1376 1128.16Q1385.25 1041.41, 1472 1050.65Q1511.78 994.43, 1568 1034.2Q1599.23 969.43, 1664 1000.66Q1771.84 948.5, 1824 1056.34Q1853.35 989.68, 1920 1019.03Q1977.95 916.98, 2080 974.93z" fill="rgba(255, 255, 255, 1)"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1239">
+            <rect width="1920" height="1080" fill="#ffffff"></rect>
+        </mask>
+    </defs>
+    <animateTransform
+      href="clouds"
+      attributename="transform"
+      attirbutetype="XML"
+      type="translate"
+      from="0"
+      to="100"
+      dur="10s"
+      repeatcount="indefinite"
+      >
+</svg>
