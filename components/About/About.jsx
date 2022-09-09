@@ -20,11 +20,11 @@ const About = () => {
       <Column>
         <Title>About Me</Title>
         <Description>
-          I'm a web developer who is devoted to continue learning and growing
-          every day. I love web development because it brings together
+          I{`'`}m a web developer who is devoted to continue learning and
+          growing every day. I love web development because it brings together
           technology, logic and creativity to turn them into beautiful tools and
-          solutions to make peoples lives easier and more enjoyable. When I'm
-          not coding I might be exercising, reading or playing the drums.
+          solutions to make peoples lives easier and more enjoyable. When I{`'`}
+          m not coding I might be exercising, reading or playing the drums.
         </Description>
       </Column>
       <Row>

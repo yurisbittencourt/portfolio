@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <Section id="hero">
       <Column>
-        <Title>Hi, I'm Yuri!</Title>
+        <Title>Hi, I{`'`}m Yuri!</Title>
         <Description>Development | Engineering | Design</Description>
       </Column>
     </Section>

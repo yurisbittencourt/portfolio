@@ -34,7 +34,7 @@ const Projects = () => {
               </Link>
             </Row>
             <Description>{project.description}</Description>
-            <Image src={project.image} />
+            <Image src={project.image} alt={project.name} />
           </Card>
         ))}
       </Wrapper>
