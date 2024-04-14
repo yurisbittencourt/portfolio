@@ -10,10 +10,6 @@ import Image from "next/image";
 
 const navLinks = [
   {
-    title: "Home",
-    path: "/",
-  },
-  {
     title: "About",
     path: "#about",
   },
@@ -33,23 +29,12 @@ const Navbar = () => {
   return (
     <nav className="fixed mx-auto border border-[#33353F] top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100">
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-4 py-2">
-        {/* <Link
+        <Link
           href={"/"}
-          className="text-2xl md:text-5xl text-white font-semibold"
+          className="text-1xl md:text-2xl text-white font-semibold"
         >
-          LOGO
-        </Link> */}
-        <div className="socials flex flex-row gap-2">
-          <Link href="https://github.com/yurisbittencourt" target="_blank">
-            <Image src={GithubIcon} alt="Github Icon" />
-          </Link>
-          <Link
-            href="https://www.linkedin.com/in/ysbittencourt/"
-            target="_blank"
-          >
-            <Image src={LinkedinIcon} alt="Linkedin Icon" />
-          </Link>
-        </div>
+          Yuri Bittencourt
+        </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
             <button

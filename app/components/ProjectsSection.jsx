@@ -35,24 +35,25 @@ const projectsData = [
   {
     id: 4,
     title: "JavaScript Game",
-    description: "Arrow keys to move and Enter to use special move",
+    description:
+      "Just JavaScript. Use arrow keys to move and Enter for special move",
     image: "/images/projects/project4.png",
     tag: ["All", "Web"],
     gitUrl:
       "https://github.com/yurisbittencourt/shadow-dog/tree/main/JS%20Game/",
     previewUrl: "https://shadow-dog.netlify.app/",
   },
+  // {
+  //   id: 5,
+  //   title: "Car Dealership Website",
+  //   description: "Next.js and Styled-Components",
+  //   image: "/images/projects/project5.png",
+  //   tag: ["All", "Web"],
+  //   gitUrl: "https://github.com/yurisbittencourt/",
+  //   previewUrl: "https://spanixauto.ca/",
+  // },
   {
     id: 5,
-    title: "Car Dealership Website",
-    description: "Next.js and Styled-Components",
-    image: "/images/projects/project5.png",
-    tag: ["All", "Web"],
-    gitUrl: "https://github.com/yurisbittencourt/",
-    previewUrl: "https://spanixauto.ca/",
-  },
-  {
-    id: 6,
     title: "Frontend Checkout",
     description: "React.js and Styled-Components",
     image: "/images/projects/project6.png",
@@ -61,7 +62,7 @@ const projectsData = [
     previewUrl: "https://frontend-checkout-process.web.app/",
   },
   {
-    id: 7,
+    id: 6,
     title: "Recipe Search",
     description: "Next.js, Styled-Components and Spoonacular API",
     image: "/images/projects/project7.png",
@@ -70,7 +71,7 @@ const projectsData = [
     previewUrl: "https://recipes-next.web.app/",
   },
   {
-    id: 8,
+    id: 7,
     title: "Dentist's Landing Page",
     description: "HTML and CSS",
     image: "/images/projects/project8.png",
