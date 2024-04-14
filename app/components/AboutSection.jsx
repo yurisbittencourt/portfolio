@@ -23,7 +23,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor's Degree in Computer Engineering</li>
+        <li>Bachelor&apos;s Degree in Computer Engineering</li>
         <li>Mobile Application Development & Strategy Post Graduate</li>
       </ul>
     ),
@@ -57,7 +57,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Full-stack developer with a bachelor's degree in Computer
+            Full-stack developer with a bachelor&apos;s degree in Computer
             Engineering and currently pursuing a post-graduate certificate in
             Mobile Application Development. I have 3+ years of experience
             building solutions using JavaScript, TypeScript, Node.js, React.js,
