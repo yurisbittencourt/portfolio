@@ -5,9 +5,6 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 const fromEmail = process.env.FROM_EMAIL;
 const toEmail = process.env.TO_EMAIL;
 
-export const runtime = "edge";
-export const dynamic = "force-dynamic";
-
 export async function POST(req, res) {
   const { email, subject, message } = await req.json();
   console.log(email, subject, message);
@@ -18,6 +15,7 @@ export async function POST(req, res) {
       subject: subject,
       react: (
         <>
+          <p>From: {email}</p>
           <h1>{subject}</h1>
           <p>Thank you for contacting me!</p>
           <p>New message submitted:</p>
