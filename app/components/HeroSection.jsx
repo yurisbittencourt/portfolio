@@ -46,7 +46,7 @@ const HeroSection = () => {
             />
           </div>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Currently searching for a spring/summer co-op/intership for 2024!
+            Currently searching for a spring/summer co-op/internship for 2024!
           </p>
           <div>
             <Link
