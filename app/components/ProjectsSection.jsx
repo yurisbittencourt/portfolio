@@ -79,6 +79,33 @@ const projectsData = [
     gitUrl: "https://github.com/yurisbittencourt/page-vitin",
     previewUrl: "https://drvictorferrari.netlify.app/",
   },
+  {
+    id: 8,
+    title: "Android Property Rental App",
+    description: "Kotlin and Google Firebase",
+    image: "/images/android.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "https://github.com/yurisbittencourt/android-rental",
+    previewUrl: "",
+  },
+  {
+    id: 9,
+    title: "iOS Property Rental App",
+    description: "Swift and Google Firebase",
+    image: "/images/ios.jpeg",
+    tag: ["All", "Mobile"],
+    gitUrl: "https://github.com/yurisbittencourt/ios-rental",
+    previewUrl: "",
+  },
+  {
+    id: 10,
+    title: "React Native Car Rental App",
+    description: "React Native and Google Firebase",
+    image: "/images/react-native.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "https://github.com/yurisbittencourt/react-native-car",
+    previewUrl: "",
+  },
 ];
 
 const ProjectsSection = () => {
